@@ -1,0 +1,13 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\bin\Debug\netcoreapp3.1\ConAppSumar.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\bin\Debug\netcoreapp3.1\ConAppSumar.deps.json
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\bin\Debug\netcoreapp3.1\ConAppSumar.runtimeconfig.json
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\bin\Debug\netcoreapp3.1\ConAppSumar.runtimeconfig.dev.json
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\bin\Debug\netcoreapp3.1\ConAppSumar.dll
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\bin\Debug\netcoreapp3.1\ConAppSumar.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.AssemblyInfoInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.AssemblyInfo.cs
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.dll
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.genruntimeconfig.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\ConAppSumar\ConAppSumar\obj\Debug\netcoreapp3.1\ConAppSumar.csprojAssemblyReference.cache
